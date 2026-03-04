@@ -17,6 +17,7 @@ https://github.com/user-attachments/assets/03ae07c5-f23a-4d98-b29f-9d64061639b3
 
 ## デザイン設定機能
 Tampermonkeyの拡張機能メニューから「⚙️ デザイン設定」を開くことで、折りたたみボタンの見た目を4種類から自由に変更できます。
+
 <img width="319" height="260" alt="image" src="https://github.com/user-attachments/assets/8b7c869a-5e49-410d-b481-3c9ce17ec52a" />
 
 <img width="381" height="276" alt="image" src="https://github.com/user-attachments/assets/c764bfff-88d2-413c-b827-9576d58d47c6" />
