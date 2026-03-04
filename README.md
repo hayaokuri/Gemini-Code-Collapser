@@ -17,13 +17,19 @@ https://github.com/user-attachments/assets/03ae07c5-f23a-4d98-b29f-9d64061639b3
 
 ## デザイン設定機能
 Tampermonkeyの拡張機能メニューから「⚙️ デザイン設定」を開くことで、折りたたみボタンの見た目を4種類から自由に変更できます。
+<img width="319" height="260" alt="image" src="https://github.com/user-attachments/assets/8b7c869a-5e49-410d-b481-3c9ce17ec52a" />
 
-![設定画面の画像](ここに設定画面のスクリーンショット画像のURLを貼り付けてください)
+<img width="381" height="276" alt="image" src="https://github.com/user-attachments/assets/c764bfff-88d2-413c-b827-9576d58d47c6" />
 
-1. **標準（カード型）:** 視認性の高い標準デザイン
-2. **シームレスバー型:** エディタのステータスバーのような一体感のあるデザイン
-3. **フローティングピル型:** 画面を占有しない丸みを帯びたカプセル状のデザイン
-4. **ミニマルテキスト型:** 背景や枠線を排したリンク風のシンプルなデザイン
+
+1. **標準（カード型）:** 視認性の高い標準デザイン<img width="690" height="242" alt="image" src="https://github.com/user-attachments/assets/b0e13090-19ef-4f24-857e-d2041c804982" />
+
+2. **シームレスバー型:** エディタのステータスバーのような一体感のあるデザイン<img width="699" height="240" alt="image" src="https://github.com/user-attachments/assets/89fef72c-7f9c-4007-a932-68e7e846f3da" />
+
+3. **フローティングピル型:** 画面を占有しない丸みを帯びたカプセル状のデザイン<img width="704" height="249" alt="image" src="https://github.com/user-attachments/assets/94631573-2076-41c1-b57e-9987d7811d88" />
+
+4. **ミニマルテキスト型:** 背景や枠線を排したリンク風のシンプルなデザイン<img width="694" height="244" alt="image" src="https://github.com/user-attachments/assets/57d0db21-07fd-4f0f-a746-2fe9df71ab5a" />
+
 
 ## インストール方法
 1. ブラウザに [Tampermonkey](https://www.tampermonkey.net/) などのUserScriptマネージャーをインストールします。
